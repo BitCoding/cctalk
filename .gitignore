@@ -30,3 +30,4 @@
 
 *.directory
 build/*
+*.kdev4

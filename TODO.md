@@ -1,0 +1,5 @@
+- [ ] Raspberry pi kernel modul gpio use (client/node working as cctalk slave)
+- [ ] Windows compile
+- [ ] Implement standart devices
+- [ ] C++ Wrapper 
+- [ ] Device Detector [Manufacture , Type, Classes to handle device simple] 
